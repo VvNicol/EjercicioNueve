@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\bin\Debug\net8.0\edu.ejercicio.nueve.nrojlla.exe
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\bin\Debug\net8.0\edu.ejercicio.nueve.nrojlla.deps.json
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\bin\Debug\net8.0\edu.ejercicio.nueve.nrojlla.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\bin\Debug\net8.0\edu.ejercicio.nueve.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\bin\Debug\net8.0\edu.ejercicio.nueve.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\refint\edu.ejercicio.nueve.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\edu.ejercicio.nueve.nrojlla.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicio.nueve.nrojlla\obj\Debug\net8.0\ref\edu.ejercicio.nueve.nrojlla.dll

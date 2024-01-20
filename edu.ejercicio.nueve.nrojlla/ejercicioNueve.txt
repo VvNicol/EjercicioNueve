@@ -1,0 +1,8 @@
+﻿Se puede realizar en el program.cs
+
+Crea un array de números enteros con los números del 1 al 8.
+Crea un arraylist con las provincias de Andalucía.
+Ordena las provincias de forma ascendente.
+Añade al principio del array list la posición 0 del array.
+De forma intercala entre los nombres de las provincias, 
+ve insertando los números restantes.
